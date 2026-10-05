@@ -1,0 +1,11 @@
+{
+  "name": "mbx-reach",
+  "version": "1.0.0",
+  "description": "Email marketing from Gemini CLI: manage your MBX Reach contacts, lists and tags, and write campaign drafts you review and send in MBX Reach.",
+  "contextFileName": "GEMINI.md",
+  "mcpServers": {
+    "mbx-reach": {
+      "httpUrl": "https://mbxreach.com/mcp"
+    }
+  }
+}
